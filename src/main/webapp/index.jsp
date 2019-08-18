@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Changed the context path first time</h1>
+<h1>Create New Person</h1>
 <mak:newForm type="general.Person" action="index.jsp">
 Name: <mak:input field="name" /><br/>
 Surname: <mak:input field="surname" />
