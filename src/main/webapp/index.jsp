@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1>Create New Person ten</h1>
+<h1>Create New Person 11</h1>
 <mak:newForm type="general.Person" action="index.jsp">
 Name: <mak:input field="name" /><br/>
 Surname: <mak:input field="surname" />
